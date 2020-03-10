@@ -1,0 +1,8 @@
+$main-color:rgb(31, 190, 190);
+.jumbotron {
+  color:$main-color;
+btn.primary{
+  background-color: $main-color;
+  border-color: darken($main-color, 10%);
+}
+}
